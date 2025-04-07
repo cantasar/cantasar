@@ -1,9 +1,17 @@
 <h2 align="center">/cantasar</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cantasar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantasar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
+<div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cantasar&theme=github_dark&hide_border=true" alt="GitHub Streak" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cantasar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cantasar&theme=github_dark" alt="Profile Details" width="840" />
+  </div>
 </div>
+
+<div align="center">
 
 ## 🚀 Projects
 
@@ -17,15 +25,17 @@
 | [Dining Philosophers](https://github.com/cantasar/Dining-Philosophers-Problem) | **Goal:** Concurrent programming solution<br>- **POSIX threads** (pthread) creation and management<br>- **Mutex locks** for critical section protection<br>- **Thread synchronization** techniques<br>- **Deadlock avoidance** algorithms |
 | [Minishell](https://github.com/cantasar/minishell) | **Goal:** Command interpreter implementation<br>- **Lexer** and **parser** for command processing<br>- **fork()**, **execve()**, **wait()** for process handling<br>- **pipe()** and **dup2()** for I/O redirection<br>- **Environment variable** management |
 | [So_long](https://github.com/cantasar/so_long) | **Goal:** 2D game development<br>- **Tile-based** map rendering<br>- **Event handling** for user input<br>- **Animation** system for sprites<br>- **Pathfinding** algorithm for enemy movement |
-| [Push Swap](https://github.com/cantasar/push_swap) | **Goal:** Data sorting algorithm implementation<br>- **Stack operations** (push, swap, rotate, reverse)<br>- **Greedy algorithm** for operation selection<br>- **Complexity analysis** and optimization<br>- **Chunk sorting** technique |
+| [Push Swap](https://github.com/cantasar/push_swap) | **Goal:** Data sorting algorithm implementation<br>- **Stack operations** (push, swap, rotate, reverse)<br>- **Radix algorithm** for operation selection<br>- **Complexity analysis** and optimization<br>- **Radix sorting** technique |
 | [Minitalk](https://github.com/cantasar/minitalk) | **Goal:** Signal-based inter-process communication<br>- **SIGUSR1** and **SIGUSR2** signal handling<br>- **Bit manipulation** for character encoding<br>- **Process ID** management<br>- **Signal masks** for reliable transmission |
 | [Ft_printf](https://github.com/cantasar/ft_printf) | **Goal:** String formatting implementation<br>- **Variadic functions** with va_list<br>- **Format specifier** parsing (%d, %s, %x, etc.)<br>- **Buffer management** for output<br>- **Base conversion** algorithms |
 | [Get Next Line](https://github.com/cantasar/get_next_line) | **Goal:** File reading utility implementation<br>- **Static variables** for state persistence<br>- **Buffer management** with read() system call<br>- **Memory allocation** and deallocation<br>- **File descriptor** handling |
 | [Libft](https://github.com/cantasar/Libft) | **Goal:** C utility library implementation<br>- **String manipulation** functions (ft_split, ft_strjoin)<br>- **Memory management** utilities (ft_memcpy, ft_calloc)<br>- **Linked list** implementation and operations<br>- **Character handling** and type checking |
+</div>
+
+<div align="center">
 
 ## 📫 Connect With Me
 
-<div align="center">
   <a href="mailto:cantasardev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -37,6 +47,25 @@
   </a>
 </div>
 
+<hr>
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+<br>
+<br>
+<hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://profile-counter.glitch.me/cantasar/count.svg" alt="Visitor Count" /></td>
+    </tr>
+  </table>
+</div>
+
+
