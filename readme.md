@@ -2,8 +2,8 @@
 
 <div>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cantasar&theme=github_dark&hide_border=true" alt="GitHub Streak" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api?username=cantasar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cantasar&theme=github_dark&hide_border=true" alt="GitHub Streak" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cantasar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170" />
   </div>
 
   <div align="center">
