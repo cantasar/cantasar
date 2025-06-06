@@ -17,7 +17,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [Task Tracker API](https://github.com/cantasar/task-tracker-api) | Full-stack task app<br>Backend: **Fastify**, **SQLite**, **JWT**<br>Frontend: **TypeScript**, **Tailwind CSS**<br>Deployment: **Docker**, **NGINX** |
+| [Medium Clone](https://github.com/cantasar/medium-clone) | <table><tr><td></td><td><b>Fullstack Medium-like blogging platform</b></td></tr><tr><td><b>Backend</b></td><td>Node.js, Fastify, SQLite, Prisma ORM, JWT Auth, Google OAuth 2.0, bcrypt, dotenv</td></tr><tr><td><b>Frontend</b></td><td>TypeScript, Tailwind CSS, DOM-based SPA routing, localStorage auth</td></tr><tr><td><b>DevOps</b></td><td>Docker, Docker Compose, .env configs</td></tr><tr><td><b>Features</b></td><td>Public profiles, SEO-friendly URLs, JWT session handling, Google Sign-In, Feed page, Slug-based posts, Dynamic avatars</td></tr></table> |
+| [Task Tracker API](https://github.com/cantasar/task-tracker-api) | <table><tr><td></td><td><b>Full-stack task app</b></td></tr><tr><td><b>Backend</b></td><td>Fastify, SQLite, JWT</td></tr><tr><td><b>Frontend</b></td><td>TypeScript, Tailwind CSS</td></tr><tr><td><b>DevOps</b></td><td>Docker, NGINX</td></tr></table> |
 | [Inception](https://github.com/cantasar/Inception) | Containerized services on **Docker**<br>**NGINX**, **WordPress**, **PHP-FPM**, **MariaDB**, **Redis**, **Adminer** |
 | [IRC Server](https://github.com/cantasar/IRC) | Real-time chat server in C++<br>**Socket programming**, **select()**, **IRC protocol** |
 | [EduManage](https://github.com/cantasar/EduManage) | ASP.NET Core web API<br>**Entity Framework**, **REST**, **Repository pattern** |
