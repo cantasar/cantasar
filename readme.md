@@ -11,28 +11,160 @@
   </div>
 </div>
 
+
 <div align="center">
 
 ## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [Medium Clone](https://github.com/cantasar/medium-clone) | <table><tr><td></td><td><b>Fullstack Medium-like blogging platform</b></td></tr><tr><td><b>Backend</b></td><td>Node.js, Fastify, SQLite, Prisma ORM, JWT Auth, Google OAuth 2.0, bcrypt, dotenv</td></tr><tr><td><b>Frontend</b></td><td>TypeScript, Tailwind CSS, DOM-based SPA routing, localStorage auth</td></tr><tr><td><b>DevOps</b></td><td>Docker, Docker Compose, .env configs</td></tr><tr><td><b>Features</b></td><td>Public profiles, SEO-friendly URLs, JWT session handling, Google Sign-In, Feed page, Slug-based posts, Dynamic avatars</td></tr></table> |
-| [Task Tracker API](https://github.com/cantasar/task-tracker-api) | <table><tr><td></td><td><b>Full-stack task app</b></td></tr><tr><td><b>Backend</b></td><td>Fastify, SQLite, JWT</td></tr><tr><td><b>Frontend</b></td><td>TypeScript, Tailwind CSS</td></tr><tr><td><b>DevOps</b></td><td>Docker, NGINX</td></tr></table> |
-| [Inception](https://github.com/cantasar/Inception) | Containerized services on **Docker**<br>**NGINX**, **WordPress**, **PHP-FPM**, **MariaDB**, **Redis**, **Adminer** |
-| [IRC Server](https://github.com/cantasar/IRC) | Real-time chat server in C++<br>**Socket programming**, **select()**, **IRC protocol** |
-| [EduManage](https://github.com/cantasar/EduManage) | ASP.NET Core web API<br>**Entity Framework**, **REST**, **Repository pattern** |
-| [Cub3D](https://github.com/cantasar/cub3D) | 3D renderer in C<br>**Raycasting**, **DDA**, **Collision Detection** |
-| [CPP Modules](https://github.com/cantasar/cpp-modules) | C++ OOP concepts<br>**Inheritance**, **Templates**, **Exceptions** |
-| [Dining Philosophers](https://github.com/cantasar/Dining-Philosophers-Problem) | Multithreading in C<br>**pthread**, **mutex**, **deadlock avoidance** |
-| [Minishell](https://github.com/cantasar/minishell) | Unix shell in C<br>**Parser**, **fork()**, **pipes**, **env vars** |
-| [So_long](https://github.com/cantasar/so_long) | 2D game in C<br>**Tile rendering**, **sprites**, **enemy AI** |
-| [Push Swap](https://github.com/cantasar/push_swap) | Sorting with stacks<br>**Radix sort**, **stack ops**, **algorithm design** |
-| [Minitalk](https://github.com/cantasar/minitalk) | IPC with signals in C<br>**SIGUSR1**, **bitwise encoding**, **PID mgmt** |
-| [Ft_printf](https://github.com/cantasar/ft_printf) | Custom printf implementation<br>**Format parsing**, **variadic functions** |
-| [Get Next Line](https://github.com/cantasar/get_next_line) | Line reader in C<br>**Static buffers**, **read()**, **fd handling** |
-| [Libft](https://github.com/cantasar/Libft) | C standard library recreation<br>**Strings**, **memory**, **linked lists** |
-</div>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cantasar/pong-game-api"><b>Pong Game API</b></a></td>
+    <td>
+      <ul>
+        <li><b>Type</b>: Backend system for multiplayer Pong platform</li>
+        <li><b>Stack</b>: <b>Node.js</b>, Fastify, SQLite, <b>Prisma</b>, JWT, Bcrypt, Swagger</li>
+        <li><b>Features</b>:
+          <ul>
+            <li>User registration & login (<b>JWT</b>-based)</li>
+            <li>Profile update & <b>authentication middleware</b></li>
+            <li>Friend system (add, view, respond)</li>
+            <li>Swagger documentation for API testing</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cantasar/medium-clone"><b>Medium Clone</b></a></td>
+    <td>
+      <ul>
+        <li><b>Type</b>: Fullstack Medium-like blogging platform</li>
+        <li><b>Backend</b>: Node.js, Fastify, SQLite, <b>Prisma</b>, JWT, <b>Google OAuth 2.0</b></li>
+        <li><b>Frontend</b>: <b>TypeScript</b>, Tailwind CSS, <b>SPA routing</b></li>
+        <li><b>DevOps</b>: <b>Docker</b>, Docker Compose</li>
+        <li><b>Features</b>: Slug-based posts, Public profiles, Feed, <b>SEO</b> URLs, Auth</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cantasar/task-tracker-api"><b>Task Tracker API</b></a></td>
+    <td>
+      <ul>
+        <li><b>Type</b>: Fullstack task management app</li>
+        <li><b>Stack</b>: Fastify, SQLite, JWT, TypeScript, Tailwind CSS</li>
+        <li><b>DevOps</b>: Docker, NGINX</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/Inception"><b>Inception</b></a></td>
+    <td>
+      <ul>
+        <li>Containerized services using <b>Docker</b></li>
+        <li><b>NGINX</b>, <b>WordPress</b>, PHP-FPM, <b>MariaDB</b>, Redis, Adminer</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/IRC"><b>IRC Server</b></a></td>
+    <td>
+      <ul>
+        <li><b>Real-time</b> chat server written in <b>C++</b></li>
+        <li><b>Socket programming</b>, select(), IRC protocol</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/EduManage"><b>EduManage</b></a></td>
+    <td>
+      <ul>
+        <li><b>ASP.NET Core</b> web API project</li>
+        <li><b>Entity Framework</b>, RESTful API, Repository pattern</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/cub3D"><b>Cub3D</b></a></td>
+    <td>
+      <ul>
+        <li><b>3D raycasting engine</b> built in C</li>
+        <li>Features <b>DDA</b>, collision detection, texture rendering</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/cpp-modules"><b>CPP Modules</b></a></td>
+    <td>
+      <ul>
+        <li>Advanced <b>C++</b> <b>OOP</b> topics</li>
+        <li>Inheritance, Templates, Exceptions</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/Dining-Philosophers-Problem"><b>Dining Philosophers</b></a></td>
+    <td>
+      <ul>
+        <li><b>Multithreading</b> problem solved in C</li>
+        <li>Using <b>pthread</b>, mutexes, deadlock avoidance</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/minishell"><b>Minishell</b></a></td>
+    <td>
+      <ul>
+        <li><b>Unix shell</b> interpreter in C</li>
+        <li>Supports <b>fork()</b>, piping, parsing, env vars</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/so_long"><b>So_long</b></a></td>
+    <td>
+      <ul>
+        <li><b>2D game engine</b> with tile rendering</li>
+        <li>Sprites, collectibles, <b>enemy AI</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/push_swap"><b>Push Swap</b></a></td>
+    <td>
+      <ul>
+        <li>Sorting stacks project</li>
+        <li>Uses custom <b>radix sort</b> and minimal operation design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/minitalk"><b>Minitalk</b></a></td>
+    <td>
+      <ul>
+        <li><b>Client-server communication</b> with signals</li>
+        <li><b>SIGUSR1</b>, bitwise message encoding</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/ft_printf"><b>Ft_printf</b></a></td>
+    <td>
+      <ul>
+        <li>Custom implementation of <b>printf</b> in C</li>
+        <li>Handles <b>variadic arguments</b>, format specifiers</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/get_next_line"><b>Get Next Line</b></a></td>
+    <td>
+      <ul>
+        <li>Line-by-line file reader in C</li>
+        <li>Manages <b>static buffers</b> and <b>file descriptors</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td><a href="https://github.com/cantasar/Libft"><b>Libft</b></a></td>
+    <td>
+      <ul>
+        <li>Reimplementation of <b>standard C library</b></li>
+        <li>Includes string manipulation, memory, <b>linked lists</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
